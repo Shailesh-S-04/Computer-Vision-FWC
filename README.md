@@ -1,6 +1,6 @@
 <div align="center">
 
-# Computer Vision and CNN
+# Module 6 - Computer Vision and CNN
 
 ### Practical Image Processing, Data Augmentation, and Convolutional Neural Network Foundations
 
